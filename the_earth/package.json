@@ -1,0 +1,23 @@
+{
+  "name": "the_earth",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.7.1",
+    "three": "^0.132.0",
+    "vue": "^3.2.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "autoprefixer": "^10.3.3",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.8",
+    "vite": "^2.5.1",
+    "vite-plugin-string": "^1.0.1"
+  }
+}
